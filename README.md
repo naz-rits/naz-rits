@@ -36,13 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
-### Connect with me
-
-<div align="left">
-  <img src="https://www.instagram.com/this.rits/" height="35" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/in/rich-nazareta-1046862b3/" height="35" alt="linkedin logo"  />
-</div>
-
 
 ### 📌 About Me
 
@@ -50,7 +43,10 @@ I'm an aspiring full-stack developer passionate about building scalable backend 
 
 ### 🚀 Goals:
 
-
 - To master Spring Boot and build scalable apps
 - Contribute to open-source, teach others, land a dream job
+
+### 📫 Connect With Me:
+- 📧 Email: richnazareta@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rich-nazareta-1046862b3/
 
