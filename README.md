@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hi 👋! My name is Rich Paul D. Nazareta </h1>
+<h1 align="center">Hi 👋! My name is Rich Paul D. Nazareta </h1>
 
-<h2 style="text-align: center;">I'm a fullstack developer from the Philippines</h2>
+<h2 align="center">I'm a fullstack developer from the Philippines</h2>
 
 ### 🧰 Tech Stack
 
