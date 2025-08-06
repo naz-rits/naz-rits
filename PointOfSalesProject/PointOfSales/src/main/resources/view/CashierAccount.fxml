@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="660.0" maxWidth="976.0" minHeight="660.0" minWidth="976.0" prefHeight="660.0" prefWidth="976.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pointofsales.controller.CashierAccountController">
+   <children>
+      <SplitPane dividerPositions="0.5" prefHeight="660.0" prefWidth="976.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="72.0" stroke="BLACK" strokeType="INSIDE" width="484.0" />
+                  <Label layoutX="143.0" layoutY="14.0" text="ACTIVE" textAlignment="CENTER">
+                     <font>
+                        <Font name="Rockwell Extra Bold" size="46.0" />
+                     </font>
+                  </Label>
+                  <TableView layoutY="72.0" prefHeight="588.0" prefWidth="484.0">
+                    <columns>
+                      <TableColumn prefWidth="103.19997555017471" text="Cashier ID" />
+                      <TableColumn prefWidth="107.19992065429688" text="Full Name" />
+                        <TableColumn prefWidth="99.20010375976562" text="Username" />
+                        <TableColumn prefWidth="96.800048828125" text="Total Sales" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="72.0" stroke="BLACK" strokeType="INSIDE" width="484.0" />
+                  <Label layoutX="114.0" layoutY="14.0" text="INACTIVE">
+                     <font>
+                        <Font name="Rockwell Extra Bold" size="46.0" />
+                     </font>
+                  </Label>
+                  <TableView layoutY="72.0" prefHeight="588.0" prefWidth="484.0">
+                     <columns>
+                        <TableColumn prefWidth="97.59997862577438" text="Cashier ID" />
+                        <TableColumn prefWidth="131.20001220703125" text="Full Name" />
+                        <TableColumn prefWidth="95.19999694824219" text="Username" />
+                        <TableColumn prefWidth="93.5999755859375" text="Total Sales" />
+                     </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

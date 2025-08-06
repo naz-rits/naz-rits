@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane maxHeight="659.0" maxWidth="401.0" minHeight="659.0" minWidth="401.0" prefHeight="659.0" prefWidth="401.0" style="-fx-border-color: black;;" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="582.0" stroke="BLACK" strokeType="INSIDE" width="401.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="90.0" stroke="BLACK" strokeType="INSIDE" width="401.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="90.0" layoutY="569.0" stroke="BLACK" strokeType="INSIDE" width="401.0" />
+      <ImageView fitHeight="493.0" fitWidth="401.0" layoutY="127.0" opacity="0.15" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="104.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="301.0" layoutY="559.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="39.0" layoutY="133.0" opacity="0.39" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="284.0" layoutY="383.0" opacity="0.22" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="284.0" layoutY="88.0" opacity="0.3" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="92.0" layoutY="344.0" opacity="0.22" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="31.0" layoutY="479.0" opacity="0.25" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="220.0" layoutY="211.0" opacity="0.24" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="245.0" layoutY="479.0" opacity="0.21" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="78.0" fitWidth="82.0" layoutX="162.0" layoutY="109.0" opacity="0.23" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/ui-images/logo.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
